@@ -1,7 +1,4 @@
-__Primeiro-site-Bootcamp__   
+#Primeiro-site-Bootcamp  
 LaunchBase 
  
-**Foram usados nesse site**
-* HTML
-* CSS
-* JavaScript
+
